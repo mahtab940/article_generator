@@ -20,3 +20,5 @@ python3 article_generator.py
 
 Comparison:
 python3 compare.py
+
+...
